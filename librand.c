@@ -1,1 +1,4 @@
-unsigned int xrand(void) { return 42U; }
+unsigned int xrand(void)
+{
+	return 42U;
+}
