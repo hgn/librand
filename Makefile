@@ -1,5 +1,5 @@
 all:
 	$(CC) -c librand.c
-	$(AR) rcs librand.a librand.o
+	$(AR) rcs librand.a  librand.o
 
 
